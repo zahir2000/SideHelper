@@ -1,0 +1,11 @@
+Bicycle
+Person
+Car
+Tree
+Pole
+Fire hydrant
+Trash can
+Cone
+Dog
+Motorcycle
+Pothole
