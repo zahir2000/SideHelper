@@ -1,0 +1,12 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">YOLO Example</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+    <string name="label_models">ML Model</string>
+
+    <string-array name="models_spinner_titles">
+        <item>YOLOv4-Tiny 320x320</item>
+        <item>YOLOv4 320x320</item>
+        <item>YOLOv4 320x320 FP16</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403280945952",
+    "project_id": "tfl-object-detector",
+    "storage_bucket": "tfl-object-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403280945952:android:fbb84a29bad3879b932d45",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.sidehelper.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403280945952-n9r2pbq0d91godok28rok1itqeh9biae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-2AsSh_R5llzoyXJFS_-Jli_lmKr7K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403280945952-n9r2pbq0d91godok28rok1itqeh9biae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

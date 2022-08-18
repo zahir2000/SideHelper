@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">403280945952-n9r2pbq0d91godok28rok1itqeh9biae.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">403280945952</string>
+    <string name="google_api_key" translatable="false">AIzaSyDA-2AsSh_R5llzoyXJFS_-Jli_lmKr7K8</string>
+    <string name="google_app_id" translatable="false">1:403280945952:android:fbb84a29bad3879b932d45</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDA-2AsSh_R5llzoyXJFS_-Jli_lmKr7K8</string>
+    <string name="google_storage_bucket" translatable="false">tfl-object-detector.appspot.com</string>
+    <string name="project_id" translatable="false">tfl-object-detector</string>
+</resources>

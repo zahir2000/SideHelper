@@ -1,0 +1,1 @@
+{"className":"org.tensorflow.lite.sidehelper.objectdetection.OverlayView","classAnnotations":[],"interfaces":["android.graphics.drawable.Drawable$Callback","android.view.KeyEvent$Callback","android.view.accessibility.AccessibilityEventSource"],"superClasses":["android.view.View","java.lang.Object"]}

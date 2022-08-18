@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\Downloads\\dogs\\tf\\github\\sidehelper\\android\\lib_task_api\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

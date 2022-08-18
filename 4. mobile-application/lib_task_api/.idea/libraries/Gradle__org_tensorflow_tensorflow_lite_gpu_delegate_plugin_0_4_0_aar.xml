@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8604d89359f041f74c0aca5582f12050/transformed/jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb7cbca3fb21d731d2545931c993bdcd/transformed/jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b584843eb41928535254a4b062b88ef7/transformed/jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b584843eb41928535254a4b062b88ef7/transformed/jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b584843eb41928535254a4b062b88ef7/transformed/jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
